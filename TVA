@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>TVA Official</title>
+</head>
+
+<body>
+
+    <header>
+        <img src="images/tva_logo.png" alt="TVA Logo" class="logo">
+        <h1>Welcome to the TVA</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#best-workers">Best Workers</a></li>
+            <li><a href="#ceo">CEO</a></li>
+            <li><a href="#ai">AI</a></li>
+            <li><a href="#hierarchy">Hierarchy</a></li>
+            <li><a href="#offices">Offices</a></li>
+            <li><a href="#canteen">Canteen</a></li>
+        </ul>
+    </nav>
+
+    <section id="best-workers">
+        <h2>Best Workers of the Month</h2>
+        <!-- Insert pictures and descriptions of Mobius, B-15, O.B, and Casey -->
+        <div class="worker">
+            <img src="images/mobius.jpg" alt="Mobius Image" class="worker-image">
+            <p>Mobius - Time Variance Authority Analyst</p>
+        </div>
+        <!-- Add similar sections for other workers -->
+    </section>
+
+    <section id="ceo">
+        <h2>CEO: Loki</h2>
+        <!-- Insert picture and description of Loki -->
+        <div class="ceo">
+            <img src="images/loki_ceo.jpg" alt="Loki CEO Image" class="ceo-image">
+            <p>Loki - Master of Mischief and CEO of TVA</p>
+        </div>
+    </section>
+
+    <section id="ai">
+        <h2>AI: Miss Minutes</h2>
+        <!-- Insert picture and description of Miss Minutes -->
+        <div class="ai">
+            <img src="images/miss_minutes.jpg" alt="Miss Minutes Image" class="ai-image">
+            <p>Miss Minutes - TVA's Animated Guide and Assistant</p>
+        </div>
+    </section>
+
+    <section id="hierarchy">
+        <h2>Hierarchy and Status</h2>
+        <!-- Describe the TVA hierarchy and status -->
+        <p>The TVA operates under a hierarchical structure, with various roles including analysts, hunters, and managers. Each employee plays a crucial role in maintaining the temporal order.</p>
+    </section>
+
+    <section id="offices">
+        <h2>Levels and Offices</h2>
+        <!-- Describe the different levels and offices in the TVA -->
+        <p>The TVA consists of multiple levels, each dedicated to specific tasks. Offices are organized to ensure seamless coordination in monitoring and managing timelines.</p>
+    </section>
+
+    <section id="canteen">
+        <h2>Canteen Menu</h2>
+        <!-- Insert the TVA canteen menu -->
+        <div class="menu">
+            <h3>Week 1</h3>
+            <ul>
+                <li>Monday: Temporal Tacos</li>
+                <li>Tuesday: Quantum Quesadillas</li>
+                <li>Wednesday: Infinity Burritos</li>
+                <li>Thursday: Paradox Pizza</li>
+                <li>Friday: Timeless Tiramisu</li>
+            </ul>
+        </div>
+
+        <!-- Add similar sections for Week 2, Week 3, and Week 4 -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 TVA Official. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
